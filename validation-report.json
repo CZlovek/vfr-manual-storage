@@ -1,0 +1,200 @@
+{
+  "created": "2026-10-01T08:59:45.6055092Z",
+  "aerodromes": 2961,
+  "errors": 0,
+  "warnings": 32,
+  "findings": [
+    {
+      "isError": false,
+      "icao": "EDME",
+      "name": "EGGENFELDEN",
+      "message": "runway 08/26 1160x23 Asphalt: azimuths 83/63 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "EPIN",
+      "name": "INOWROC\u0141AW",
+      "message": "runway 18/36 390x100 Grass: azimuths 4/184 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "EPJS",
+      "name": "JE\u017B\u00D3W SUDECKI",
+      "message": "runway 18/36 280x50 Grass: azimuths 2/182 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "EPSU",
+      "name": "SUWALKI",
+      "message": "runway 08R/26L 800x60 Grass: azimuths 55/235 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "EPVL",
+      "name": "WILCZE LASKI",
+      "message": "runway 26/08 1270x30 Asphalt: azimuths 281/101 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "EPWK",
+      "name": "KRUSZYN K/WOC\u0141AWKA",
+      "message": "runway 08R/26L 1000x80 Grass: azimuths 173/353 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "LKNVCE",
+      "name": "Nov\u00E1 V\u010Delnice",
+      "message": "runway 18/36 450x15 Grass: azimuths 1/181 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "LKVSEN",
+      "name": "V\u0161e\u0148",
+      "message": "runway 13/31 450x30 Grass: azimuths 155/335 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YAPH",
+      "name": "ALPHA",
+      "message": "runway 18/36 1456x30 Asphalt: azimuths 5/185 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YAQA",
+      "name": "AQUILA AIRPARK",
+      "message": "runway 05/23 1500x35 Asphalt: azimuths 5/23 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YAQA",
+      "name": "AQUILA AIRPARK",
+      "message": "runway 09/27 1500x30 Grass: azimuths 9/27 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YATR",
+      "name": "AMPHITHEATRE",
+      "message": "runway 36/18 1096x30 Unknown: azimuths 280/100 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YBTR",
+      "name": "BLACKWATER",
+      "message": "runway 18/36 1500x30 Asphalt: azimuths 5/185 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YCFH",
+      "name": "CLIFTON HILLS",
+      "message": "runway 12/30 899x30 Unknown: azimuths 210/30 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YEMG",
+      "name": "EROMANGA",
+      "message": "runway 18/36 1500x30 Sand: azimuths 10/190 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YGDO",
+      "name": "GUNDAROO",
+      "message": "runway 18/36 1100x15 Asphalt: azimuths 10/190 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YGFN",
+      "name": "GRAFTON",
+      "message": "runway 18/36 1709x30 Asphalt: azimuths 8/188 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YKTN",
+      "name": "KYNETON",
+      "message": "runway 18/36 705x8 Earth: azimuths 8/188 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YMLC",
+      "name": "MOLE CREEK",
+      "message": "runway 28/10 399x30 Unknown: azimuths 220/40 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YMRY",
+      "name": "MORUYA",
+      "message": "runway 18/36 1523x30 Asphalt: azimuths 8/188 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YNBR",
+      "name": "NARRABRI",
+      "message": "runway 18/36 1765x30 Asphalt: azimuths 10/190 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YPED",
+      "name": "EDINBURGH",
+      "message": "runway 18/36 2968x45 Asphalt: azimuths 6/186 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YPEF",
+      "name": "PENFIELD",
+      "message": "runway 18/36 1200x30 Grass: azimuths 10/190 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YPFT",
+      "name": "POLO FLAT",
+      "message": "runway 18/36 780x30 Grass: azimuths 9/189 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YPMH",
+      "name": "PROMINENT HILL",
+      "message": "runway 18/36 2200x30 Asphalt: azimuths 10/190 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YPOK",
+      "name": "POREPUNKAH",
+      "message": "runway 18/36 700x30 Grass: azimuths 9/189 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YROM",
+      "name": "ROMA",
+      "message": "runway 18/36 1504x30 Asphalt: azimuths 8/188 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YSIA",
+      "name": "SIAM",
+      "message": "runway 34/16 1099x30 Unknown: azimuths 310/160 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YTOC",
+      "name": "TOCUMWAL",
+      "message": "runway 18/36 1273x30 Asphalt: azimuths 9/189 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YWGT",
+      "name": "WANGARATTA",
+      "message": "runway 18/36 1640x30 Asphalt: azimuths 8/188 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YWND",
+      "name": "WONDAI",
+      "message": "runway 18/36 1400x30 Grass: azimuths 10/190 do not match the designators"
+    },
+    {
+      "isError": false,
+      "icao": "YWPL",
+      "name": "WINNING POOL NORTH",
+      "message": "runway 19/01 999x30 Unknown: azimuths 280/100 do not match the designators"
+    }
+  ]
+}
